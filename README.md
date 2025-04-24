@@ -1,7 +1,6 @@
 # MrsBlackhornNFT – ERC721 Token Demo
 
-![Mrs. Blackhorn's First Mint][def]
-
+![Mrs. Blackhorn's First Mint](https://green-capitalist-bovid-159.mypinata.cloud/ipfs/bafybeihluqfczg3jue3mcs5xmzqwxf3nxlumqpp3s4onfef5revo6vtnkq)
 > **Name:** Mrs. Blackhorn's First Mint  
 > **Description:** The official ERC721 token from the Crypto Conversation Starter series.  
 > **Edition:** Genesis  
