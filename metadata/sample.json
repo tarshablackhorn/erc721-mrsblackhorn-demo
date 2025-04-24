@@ -1,0 +1,15 @@
+{
+    "name": "Mrs. Blackhorn's First Mint",
+    "description": "The official ERC721 token from the Crypto Conversation Starter series.",
+    "image": "green-capitalist-bovid-159.mypinata.cloud/ipfs/bafybeihluqfczg3jue3mcs5xmzqwxf3nxlumqpp3s4onfef5revo6vtnkq",
+    "attributes": [
+      {
+        "trait_type": "Origin",
+        "value": "Crypto Conversation Starter"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Genesis"
+      }
+    ]
+  }
